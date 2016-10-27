@@ -96,8 +96,8 @@
             ['r', 'Front_Right_Sensor', 'front_right_sensor'],
             ['r', 'Bottom_Right_Sensor', 'bottom_right_sensor'],
             ['r', 'Bottom_Left_Sensor', 'bottom_left_sensor'],
-            ['b', 'Front_Left_Sensor', 'front_left_sensor'],
-            ['h', 'Side_Left_Sensor', 'side_left_sensor']
+            ['r', 'Front_Left_Sensor', 'front_left_sensor'],
+            ['r', 'Side_Left_Sensor', 'side_left_sensor']
         ]
     };
 
