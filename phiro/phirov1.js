@@ -81,23 +81,23 @@
     var descriptor = {
         blocks: [
             // Block type, block name, function name, input_value
-            ['h', 'Disconnect_PHIRO %n', 'disconnect_phiro', 255],
-            ['h', 'Left_RED %n', 'left_red', 255],
-            ['h', 'Left_GREEN %n', 'left_green', 255],
-            ['h', 'Left_BLUE %n', 'left_blue', 255],
-            ['h', 'RIGHT_RED %n', 'right_red', 255],
-            ['h', 'RIGHT_GREEN %n', 'right_green', 255],
-            ['h', 'RIGHT_BLUE %n', 'right_blue', 255],
-            ['h', 'LeftMotorForward %n', 'left_motor_forward', 255],
-            ['h', 'LeftMotorBackward %n', 'left_motor_backward', 255],
-            ['h', 'RightMotorForward %n', 'right_motor_forward', 255],
-            ['h', 'RightMotorBackward %n', 'right_motor_backward', 255],
-            ['', 'Side_Right_Sensor', 'side_right_sensor'],
-            ['', 'Front_Right_Sensor', 'front_right_sensor'],
-            ['', 'Bottom_Right_Sensor', 'bottom_right_sensor'],
-            ['', 'Bottom_Left_Sensor', 'bottom_left_sensor'],
-            ['', 'Front_Left_Sensor', 'front_left_sensor'],
-            ['', 'Side_Left_Sensor', 'side_left_sensor']
+            ['', 'Disconnect_PHIRO %n', 'disconnect_phiro', 255],
+            ['', 'Left_RED %n', 'left_red', 255],
+            ['', 'Left_GREEN %n', 'left_green', 255],
+            ['', 'Left_BLUE %n', 'left_blue', 255],
+            ['', 'RIGHT_RED %n', 'right_red', 255],
+            ['', 'RIGHT_GREEN %n', 'right_green', 255],
+            ['', 'RIGHT_BLUE %n', 'right_blue', 255],
+            ['', 'LeftMotorForward %n', 'left_motor_forward', 255],
+            ['', 'LeftMotorBackward %n', 'left_motor_backward', 255],
+            ['', 'RightMotorForward %n', 'right_motor_forward', 255],
+            ['', 'RightMotorBackward %n', 'right_motor_backward', 255],
+            ['r', 'Side_Right_Sensor', 'side_right_sensor'],
+            ['r', 'Front_Right_Sensor', 'front_right_sensor'],
+            ['r', 'Bottom_Right_Sensor', 'bottom_right_sensor'],
+            ['r', 'Bottom_Left_Sensor', 'bottom_left_sensor'],
+            ['b', 'Front_Left_Sensor', 'front_left_sensor'],
+            ['h', 'Side_Left_Sensor', 'side_left_sensor']
         ]
     };
 
