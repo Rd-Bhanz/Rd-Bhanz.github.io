@@ -81,7 +81,7 @@
     var descriptor = {
         blocks: [
             // Block type, block name, function name, input_value
-            ['h', 'Disconnect_PHIRO', 'disconnect_phiro', 255],
+            ['h', 'Disconnect_PHIRO', 'disconnect_phiro %n', 255],
             ['h', 'Left_RED', 'left_red', 255],
             ['h', 'Left_GREEN', 'left_green', 255],
             ['h', 'Left_BLUE', 'left_blue', 255],
@@ -96,8 +96,8 @@
             ['b', 'Front_Right_Sensor', 'front_right_sensor'],
             ['b', 'Bottom_Right_Sensor', 'bottom_right_sensor'],
             ['b', 'Bottom_Left_Sensor', 'bottom_left_sensor'],
-            ['b', 'Front_Left_Sensor', 'front_left_sensor'],
-            ['b', 'Side_Left_Sensor', 'side_left_sensor']
+            ['h', 'Front_Left_Sensor', 'front_left_sensor'],
+            ['r', 'Side_Left_Sensor', 'side_left_sensor']
         ]
     };
 
